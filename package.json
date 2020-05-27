@@ -1,0 +1,8 @@
+{
+  "name": "prettier-config",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:zhuweiyou/prettier-config.git",
+  "author": "zhuweiyou <i@zhuweiyou.com>",
+  "license": "MIT"
+}
