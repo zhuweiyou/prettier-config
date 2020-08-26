@@ -12,7 +12,7 @@ yarn add --dev @zhuweiyou/prettier-config
 
 **Edit `package.json`**:
 
-```jsonc
+```json
 {
   "prettier": "@zhuweiyou/prettier-config"
 }
