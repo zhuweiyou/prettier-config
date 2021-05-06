@@ -7,7 +7,7 @@
 **Install**:
 
 ```bash
-yarn add --dev @zhuweiyou/prettier-config
+yarn add prettier @zhuweiyou/prettier-config -D
 ```
 
 **Edit `package.json`**:
